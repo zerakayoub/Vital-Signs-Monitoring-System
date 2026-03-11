@@ -12,11 +12,14 @@ struct VitalSigns
     int bloodPressureDiastolic;
     std::string bloodPressure;
     std::string timestamp;
+    std::string iso_timestamp;
 };
 
 struct SensorSimulator
 {
     VitalSigns readVitals();
 };
+
+std::string iso_timestamp();
 
 #endif
