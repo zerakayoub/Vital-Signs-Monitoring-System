@@ -1,259 +1,450 @@
-Tue Mar 10 03:25:13 2026
-,107,95,17
-Tue Mar 10 03:25:14 2026
-,59,91,12
-Tue Mar 10 03:25:15 2026
-,52,96,13
-Tue Mar 10 03:25:16 2026
-,93,96,21
-Tue Mar 10 03:25:17 2026
-,91,91,20
-Tue Mar 10 03:25:18 2026
-,64,85,25
-Tue Mar 10 03:25:19 2026
-,109,94,13
-Tue Mar 10 03:25:21 2026
-,88,96,17
-Tue Mar 10 03:25:22 2026
-,69,92,15
-Tue Mar 10 03:25:23 2026
-,106,99,16
-Tue Mar 10 03:25:24 2026
-,84,96,22
-Tue Mar 10 03:25:25 2026
-,64,88,25
-Tue Mar 10 03:25:26 2026
-,71,95,15
-Tue Mar 10 03:25:27 2026
-,92,96,14
-Tue Mar 10 03:25:28 2026
-,116,85,20
-Tue Mar 10 03:25:29 2026
-,77,92,19
-Tue Mar 10 05:59:40 2026
 
-69Heart Rate: 
-88SpO2: 
-10Respiration Rate: 
-Tue Mar 10 05:59:42 2026
-
-115Heart Rate: 
-98SpO2: 
-10Respiration Rate: 
-Tue Mar 10 05:59:43 2026
-
-72Heart Rate: 
-91SpO2: 
-20Respiration Rate: 
-Tue Mar 10 05:59:44 2026
-
-114Heart Rate: 
-98SpO2: 
-21Respiration Rate: 
-Tue Mar 10 05:59:45 2026
-
-52Heart Rate: 
-100SpO2: 
-24Respiration Rate: 
-Tue Mar 10 05:59:46 2026
-
-55Heart Rate: 
-85SpO2: 
-24Respiration Rate: 
-Tue Mar 10 05:59:47 2026
-
-89Heart Rate: 
-98SpO2: 
-13Respiration Rate: 
-Tue Mar 10 05:59:48 2026
-
-52Heart Rate: 
-86SpO2: 
-13Respiration Rate: 
-Tue Mar 10 05:59:49 2026
-
-54Heart Rate: 
-86SpO2: 
-22Respiration Rate: 
-Tue Mar 10 05:59:50 2026
-
-105Heart Rate: 
-87SpO2: 
-9Respiration Rate: 
-Tue Mar 10 05:59:51 2026
-
-88Heart Rate: 
-97SpO2: 
-23Respiration Rate: 
-Tue Mar 10 06:01:25 2026
- Heart Rate: 60
-SpO2: 97
-Respiration Rate: 19
-Tue Mar 10 06:01:26 2026
- Heart Rate: 66
-SpO2: 86
-Respiration Rate: 9
-Tue Mar 10 06:01:27 2026
- Heart Rate: 76
-SpO2: 95
-Respiration Rate: 19
-Tue Mar 10 06:01:28 2026
- Heart Rate: 63
-SpO2: 89
-Respiration Rate: 18
-Tue Mar 10 06:01:29 2026
- Heart Rate: 78
-SpO2: 88
-Respiration Rate: 12
-Tue Mar 10 06:01:30 2026
- Heart Rate: 51
-SpO2: 100
-Respiration Rate: 9
-Tue Mar 10 06:01:31 2026
- Heart Rate: 115
-SpO2: 92
-Respiration Rate: 24
-Tue Mar 10 06:01:32 2026
- Heart Rate: 107
-SpO2: 86
-Respiration Rate: 9
-Tue Mar 10 06:01:33 2026
- Heart Rate: 88
-SpO2: 94
-Respiration Rate: 25
-Tue Mar 10 06:01:34 2026
- Heart Rate: 106
-SpO2: 89
-Respiration Rate: 21
-Tue Mar 10 06:01:35 2026
- Heart Rate: 91
-SpO2: 89
-Respiration Rate: 25
-Tue Mar 10 06:01:36 2026
- Heart Rate: 75
-SpO2: 89
-Respiration Rate: 13
-Tue Mar 10 06:01:37 2026
- Heart Rate: 108
-SpO2: 100
-Respiration Rate: 11
-Tue Mar 10 06:01:38 2026
- Heart Rate: 119
-SpO2: 97
-Respiration Rate: 9
-
-Tue Mar 10 06:02:23 2026
-Heart Rate: 52
-SpO2: 85
-Respiration Rate: 16
-
-Tue Mar 10 06:02:24 2026
-Heart Rate: 68
-SpO2: 99
-Respiration Rate: 8
-
-Tue Mar 10 06:02:25 2026
+Tue Mar 10 06:17:48 2026
 Heart Rate: 66
-SpO2: 86
-Respiration Rate: 21
+SpO2: 92
+Respiration Rate: 11
+Blood Pressure: 86 / 64
 
-Tue Mar 10 06:02:26 2026
-Heart Rate: 77
-SpO2: 98
+Tue Mar 10 06:17:49 2026
+Heart Rate: 104
+SpO2: 85
 Respiration Rate: 19
+Blood Pressure: 90 / 67
 
-Tue Mar 10 06:02:27 2026
-Heart Rate: 112
-SpO2: 94
-Respiration Rate: 16
-
-Tue Mar 10 06:02:28 2026
-Heart Rate: 109
+Tue Mar 10 06:17:50 2026
+Heart Rate: 53
 SpO2: 88
-Respiration Rate: 20
-
-Tue Mar 10 06:02:29 2026
-Heart Rate: 50
-SpO2: 94
 Respiration Rate: 23
+Blood Pressure: 98 / 84
 
-Tue Mar 10 06:02:30 2026
-Heart Rate: 113
-SpO2: 87
-Respiration Rate: 19
-
-Tue Mar 10 06:02:31 2026
+Tue Mar 10 06:17:51 2026
 Heart Rate: 100
+SpO2: 92
+Respiration Rate: 12
+Blood Pressure: 85 / 61
+
+Tue Mar 10 06:17:52 2026
+Heart Rate: 81
+SpO2: 100
+Respiration Rate: 25
+Blood Pressure: 134 / 53
+
+Tue Mar 10 06:17:54 2026
+Heart Rate: 93
+SpO2: 86
+Respiration Rate: 17
+Blood Pressure: 88 / 88
+
+Tue Mar 10 06:17:55 2026
+Heart Rate: 75
+SpO2: 96
+Respiration Rate: 18
+Blood Pressure: 88 / 89
+
+Tue Mar 10 06:17:56 2026
+Heart Rate: 103
 SpO2: 85
 Respiration Rate: 24
+Blood Pressure: 91 / 71
 
-Tue Mar 10 06:02:32 2026
-Heart Rate: 116
-SpO2: 87
-Respiration Rate: 8
-
-Tue Mar 10 06:12:32 2026
-Heart Rate: 64
-SpO2: 93
-Respiration Rate: 16
-Blood Pressure: 139 / 78
-
-Tue Mar 10 06:12:33 2026
+Tue Mar 10 06:17:57 2026
 Heart Rate: 54
-SpO2: 95
-Respiration Rate: 11
-Blood Pressure: 121 / 89
+SpO2: 97
+Respiration Rate: 17
+Blood Pressure: 85 / 60
 
-Tue Mar 10 06:12:34 2026
-Heart Rate: 76
+Tue Mar 10 06:17:58 2026
+Heart Rate: 97
+SpO2: 88
+Respiration Rate: 22
+Blood Pressure: 126 / 82
+
+Tue Mar 10 06:17:59 2026
+Heart Rate: 77
+SpO2: 94
+Respiration Rate: 12
+Blood Pressure: 124 / 67
+
+Tue Mar 10 06:18:00 2026
+Heart Rate: 104
+SpO2: 100
+Respiration Rate: 15
+Blood Pressure: 117 / 79
+
+Tue Mar 10 06:18:01 2026
+Heart Rate: 50
+SpO2: 100
+Respiration Rate: 25
+Blood Pressure: 131 / 82
+
+Tue Mar 10 06:18:02 2026
+Heart Rate: 51
+SpO2: 87
+Respiration Rate: 16
+Blood Pressure: 107 / 78
+
+Tue Mar 10 06:18:03 2026
+Heart Rate: 66
+SpO2: 90
+Respiration Rate: 16
+Blood Pressure: 99 / 61
+
+Tue Mar 10 06:18:04 2026
+Heart Rate: 72
+SpO2: 87
+Respiration Rate: 25
+Blood Pressure: 126 / 58
+
+Tue Mar 10 06:18:05 2026
+Heart Rate: 116
+SpO2: 85
+Respiration Rate: 20
+Blood Pressure: 137 / 75
+
+Tue Mar 10 06:18:06 2026
+Heart Rate: 60
 SpO2: 99
 Respiration Rate: 12
-Blood Pressure: 82 / 83
+Blood Pressure: 80 / 58
 
-Tue Mar 10 06:12:35 2026
-Heart Rate: 106
-SpO2: 85
-Respiration Rate: 25
-Blood Pressure: 84 / 88
-
-Tue Mar 10 06:12:36 2026
-Heart Rate: 59
+Tue Mar 10 06:18:07 2026
+Heart Rate: 91
 SpO2: 89
-Respiration Rate: 10
-Blood Pressure: 95 / 57
+Respiration Rate: 15
+Blood Pressure: 124 / 60
 
-Tue Mar 10 06:12:37 2026
-Heart Rate: 53
-SpO2: 97
-Respiration Rate: 20
-Blood Pressure: 105 / 73
+Tue Mar 10 06:18:08 2026
+Heart Rate: 110
+SpO2: 91
+Respiration Rate: 11
+Blood Pressure: 133 / 70
 
-Tue Mar 10 06:12:38 2026
-Heart Rate: 60
-SpO2: 85
-Respiration Rate: 14
-Blood Pressure: 123 / 53
-
-Tue Mar 10 06:12:39 2026
-Heart Rate: 101
-SpO2: 86
-Respiration Rate: 13
-Blood Pressure: 124 / 68
-
-Tue Mar 10 06:12:40 2026
-Heart Rate: 114
-SpO2: 86
-Respiration Rate: 24
-Blood Pressure: 124 / 68
-
-Tue Mar 10 06:12:41 2026
-Heart Rate: 77
-SpO2: 89
+Tue Mar 10 06:18:09 2026
+Heart Rate: 69
+SpO2: 99
 Respiration Rate: 23
+Blood Pressure: 103 / 82
+
+Tue Mar 10 06:18:10 2026
+Heart Rate: 91
+SpO2: 94
+Respiration Rate: 17
+Blood Pressure: 82 / 58
+
+Tue Mar 10 06:18:11 2026
+Heart Rate: 95
+SpO2: 92
+Respiration Rate: 23
+Blood Pressure: 126 / 60
+
+Tue Mar 10 06:18:12 2026
+Heart Rate: 68
+SpO2: 100
+Respiration Rate: 8
+Blood Pressure: 90 / 52
+
+Tue Mar 10 06:18:13 2026
+Heart Rate: 104
+SpO2: 87
+Respiration Rate: 21
+Blood Pressure: 100 / 69
+
+Tue Mar 10 06:18:14 2026
+Heart Rate: 80
+SpO2: 98
+Respiration Rate: 25
+Blood Pressure: 102 / 72
+
+Tue Mar 10 06:18:15 2026
+Heart Rate: 56
+SpO2: 96
+Respiration Rate: 23
+Blood Pressure: 91 / 85
+
+Tue Mar 10 06:18:16 2026
+Heart Rate: 81
+SpO2: 99
+Respiration Rate: 10
 Blood Pressure: 122 / 81
 
-Tue Mar 10 06:12:42 2026
-Heart Rate: 118
-SpO2: 85
-Respiration Rate: 8
-Blood Pressure: 132 / 56
+Tue Mar 10 06:18:17 2026
+Heart Rate: 113
+SpO2: 88
+Respiration Rate: 15
+Blood Pressure: 115 / 79
+
+Tue Mar 10 17:52:35 2026
+Heart Rate: 79
+SpO2: 86
+Respiration Rate: 14
+Blood Pressure: 82 / 63
+
+Tue Mar 10 17:52:36 2026
+Heart Rate: 78
+SpO2: 95
+Respiration Rate: 15
+Blood Pressure: 113 / 79
+
+Tue Mar 10 17:52:37 2026
+Heart Rate: 101
+SpO2: 89
+Respiration Rate: 9
+Blood Pressure: 129 / 85
+
+Tue Mar 10 17:52:38 2026
+Heart Rate: 114
+SpO2: 88
+Respiration Rate: 20
+Blood Pressure: 122 / 64
+
+Tue Mar 10 17:52:39 2026
+Heart Rate: 72
+SpO2: 86
+Respiration Rate: 22
+Blood Pressure: 123 / 80
+
+Tue Mar 10 17:52:40 2026
+Heart Rate: 73
+SpO2: 95
+Respiration Rate: 22
+Blood Pressure: 119 / 83
+
+Tue Mar 10 18:05:17 2026
+Heart Rate: 112
+SpO2: 91
+Respiration Rate: 16
+Blood Pressure: 96 / 81
+
+Tue Mar 10 18:05:18 2026
+Heart Rate: 93
+SpO2: 96
+Respiration Rate: 17
+Blood Pressure: 115 / 65
+
+Tue Mar 10 18:05:19 2026
+Heart Rate: 120
+SpO2: 88
+Respiration Rate: 24
+Blood Pressure: 100 / 75
+
+Tue Mar 10 18:05:20 2026
+Heart Rate: 108
+SpO2: 95
+Respiration Rate: 18
+Blood Pressure: 111 / 77
+
+Tue Mar 10 18:05:21 2026
+Heart Rate: 111
+SpO2: 96
+Respiration Rate: 20
+Blood Pressure: 128 / 64
+
+Tue Mar 10 18:05:22 2026
+Heart Rate: 72
+SpO2: 100
+Respiration Rate: 12
+Blood Pressure: 86 / 55
+
+Tue Mar 10 18:05:23 2026
+Heart Rate: 90
+SpO2: 88
+Respiration Rate: 19
+Blood Pressure: 118 / 52
+
+Tue Mar 10 18:05:24 2026
+Heart Rate: 109
+SpO2: 94
+Respiration Rate: 19
+Blood Pressure: 102 / 81
+
+Tue Mar 10 19:28:31 2026
+Heart Rate: 94,
+SpO2: 94,LOW_OXYGEN
+Respiration Rate: 9,ABNORMAL_RESPIRATION
+Blood Pressure: 140 / 94,HIGH_BLOOD_PRESSURE
+
+Tue Mar 10 19:28:32 2026
+Heart Rate: 50,LOW_HEART_RATE
+SpO2: 85,LOW_OXYGEN
+Respiration Rate: 11,ABNORMAL_RESPIRATION
+Blood Pressure: 134 / 54,HIGH_BLOOD_PRESSURE
+
+Tue Mar 10 19:28:33 2026
+Heart Rate: 62,LOW_HEART_RATE
+SpO2: 90,LOW_OXYGEN
+Respiration Rate: 17,ABNORMAL_RESPIRATION
+Blood Pressure: 123 / 69,HIGH_BLOOD_PRESSURE
+
+Tue Mar 10 19:28:34 2026
+Heart Rate: 86,LOW_HEART_RATE
+SpO2: 93,LOW_OXYGEN
+Respiration Rate: 22,ABNORMAL_RESPIRATION
+Blood Pressure: 157 / 73,HIGH_BLOOD_PRESSURE
+
+Tue Mar 10 19:28:35 2026
+Heart Rate: 76,LOW_HEART_RATE
+SpO2: 96,LOW_OXYGEN
+Respiration Rate: 10,ABNORMAL_RESPIRATION
+Blood Pressure: 88 / 61,LOW_BLOOD_PRESSURE
+
+Tue Mar 10 19:28:36 2026
+Heart Rate: 105,HIGH_HEART_RATE
+SpO2: 89,LOW_OXYGEN
+Respiration Rate: 23,ABNORMAL_RESPIRATION
+Blood Pressure: 177 / 109,HIGH_BLOOD_PRESSURE
+
+Tue Mar 10 19:28:37 2026
+Heart Rate: 120,HIGH_HEART_RATE
+SpO2: 87,LOW_OXYGEN
+Respiration Rate: 10,ABNORMAL_RESPIRATION
+Blood Pressure: 100 / 93,HIGH_BLOOD_PRESSURE
+
+Tue Mar 10 19:28:38 2026
+Heart Rate: 52,LOW_HEART_RATE
+SpO2: 97,LOW_OXYGEN
+Respiration Rate: 23,ABNORMAL_RESPIRATION
+Blood Pressure: 89 / 72,LOW_BLOOD_PRESSURE
+
+Tue Mar 10 19:31:26 2026
+Heart Rate: 79, NORMAL
+SpO2: 95, NORMAL
+Respiration Rate: 10, ABNORMAL_RESPIRATION
+Blood Pressure: 101 / 59, LOW_BLOOD_PRESSURE
+
+Tue Mar 10 19:31:27 2026
+Heart Rate: 64, NORMAL
+SpO2: 91, LOW_OXYGEN
+Respiration Rate: 10, ABNORMAL_RESPIRATION
+Blood Pressure: 108 / 90, HIGH_BLOOD_PRESSURE
+
+Tue Mar 10 19:31:28 2026
+Heart Rate: 66, NORMAL
+SpO2: 99, NORMAL
+Respiration Rate: 15, NORMAL
+Blood Pressure: 163 / 63, HIGH_BLOOD_PRESSURE
+
+Tue Mar 10 19:31:29 2026
+Heart Rate: 105, HIGH_HEART_RATE
+SpO2: 86, LOW_OXYGEN
+Respiration Rate: 15, NORMAL
+Blood Pressure: 81 / 94, HIGH_BLOOD_PRESSURE
+
+Tue Mar 10 19:31:30 2026
+Heart Rate: 102, HIGH_HEART_RATE
+SpO2: 86, LOW_OXYGEN
+Respiration Rate: 14, NORMAL
+Blood Pressure: 114 / 92, HIGH_BLOOD_PRESSURE
+
+Tue Mar 10 19:31:31 2026
+Heart Rate: 52, LOW_HEART_RATE
+SpO2: 87, LOW_OXYGEN
+Respiration Rate: 20, NORMAL
+Blood Pressure: 174 / 107, HIGH_BLOOD_PRESSURE
+
+Tue Mar 10 19:31:32 2026
+Heart Rate: 64, NORMAL
+SpO2: 100, NORMAL
+Respiration Rate: 24, ABNORMAL_RESPIRATION
+Blood Pressure: 89 / 57, LOW_BLOOD_PRESSURE
+
+Tue Mar 10 19:31:33 2026
+Heart Rate: 92, NORMAL
+SpO2: 88, LOW_OXYGEN
+Respiration Rate: 20, NORMAL
+Blood Pressure: 90 / 67, NORMAL
+
+Tue Mar 10 19:31:34 2026
+Heart Rate: 79, NORMAL
+SpO2: 98, NORMAL
+Respiration Rate: 23, ABNORMAL_RESPIRATION
+Blood Pressure: 88 / 80, LOW_BLOOD_PRESSURE
+
+Tue Mar 10 19:31:35 2026
+Heart Rate: 103, HIGH_HEART_RATE
+SpO2: 86, LOW_OXYGEN
+Respiration Rate: 10, ABNORMAL_RESPIRATION
+Blood Pressure: 94 / 88, HIGH_BLOOD_PRESSURE
+
+Tue Mar 10 19:31:36 2026
+Heart Rate: 95, NORMAL
+SpO2: 91, LOW_OXYGEN
+Respiration Rate: 23, ABNORMAL_RESPIRATION
+Blood Pressure: 145 / 112, HIGH_BLOOD_PRESSURE
+
+Tue Mar 10 19:31:37 2026
+Heart Rate: 66, NORMAL
+SpO2: 90, LOW_OXYGEN
+Respiration Rate: 25, ABNORMAL_RESPIRATION
+Blood Pressure: 123 / 125, HYPERTENSIVE_CRISIS
+
+Tue Mar 10 19:31:38 2026
+Heart Rate: 109, HIGH_HEART_RATE
+SpO2: 89, LOW_OXYGEN
+Respiration Rate: 24, ABNORMAL_RESPIRATION
+Blood Pressure: 190 / 127, HYPERTENSIVE_CRISIS
+
+Tue Mar 10 19:31:39 2026
+Heart Rate: 84, NORMAL
+SpO2: 95, NORMAL
+Respiration Rate: 12, NORMAL
+Blood Pressure: 172 / 93, HIGH_BLOOD_PRESSURE
+
+Tue Mar 10 19:31:40 2026
+Heart Rate: 89, NORMAL
+SpO2: 92, LOW_OXYGEN
+Respiration Rate: 25, ABNORMAL_RESPIRATION
+Blood Pressure: 174 / 53, HIGH_BLOOD_PRESSURE
+
+Tue Mar 10 19:31:41 2026
+Heart Rate: 80, NORMAL
+SpO2: 88, LOW_OXYGEN
+Respiration Rate: 8, ABNORMAL_RESPIRATION
+Blood Pressure: 151 / 115, HIGH_BLOOD_PRESSURE
+
+Tue Mar 10 19:31:42 2026
+Heart Rate: 75, NORMAL
+SpO2: 91, LOW_OXYGEN
+Respiration Rate: 22, ABNORMAL_RESPIRATION
+Blood Pressure: 147 / 89, HIGH_BLOOD_PRESSURE
+
+Tue Mar 10 19:31:43 2026
+Heart Rate: 97, NORMAL
+SpO2: 88, LOW_OXYGEN
+Respiration Rate: 15, NORMAL
+Blood Pressure: 149 / 69, HIGH_BLOOD_PRESSURE
+
+Tue Mar 10 19:43:39 2026
+Heart Rate: 71, NORMAL
+SpO2: 88, WARNING_LOW_OXYGEN
+Respiration Rate: 11, WARNING_ABNORMAL_RESPIRATION
+Blood Pressure: 124 / 89, WARNING_HIGH_BLOOD_PRESSURE
+
+Tue Mar 10 19:43:40 2026
+Heart Rate: 109, ALERT_HIGH_HEART_RATE
+SpO2: 99, NORMAL
+Respiration Rate: 15, NORMAL
+Blood Pressure: 89 / 76, ALERT_LOW_BLOOD_PRESSURE
+
+Tue Mar 10 19:43:41 2026
+Heart Rate: 61, NORMAL
+SpO2: 91, WARNING_LOW_OXYGEN
+Respiration Rate: 8, WARNING_ABNORMAL_RESPIRATION
+Blood Pressure: 172 / 97, WARNING_HIGH_BLOOD_PRESSURE
+
+Tue Mar 10 19:43:42 2026
+Heart Rate: 115, ALERT_HIGH_HEART_RATE
+SpO2: 91, WARNING_LOW_OXYGEN
+Respiration Rate: 9, WARNING_ABNORMAL_RESPIRATION
+Blood Pressure: 121 / 74, WARNING_HIGH_BLOOD_PRESSURE
+
+Tue Mar 10 19:43:43 2026
+Heart Rate: 94, NORMAL
+SpO2: 86, WARNING_LOW_OXYGEN
+Respiration Rate: 25, WARNING_ABNORMAL_RESPIRATION
+Blood Pressure: 111 / 51, ALERT_LOW_BLOOD_PRESSURE
+
+Tue Mar 10 19:43:44 2026
+Heart Rate: 59, WARNING_LOW_HEART_RATE
+SpO2: 94, WARNING_LOW_OXYGEN
+Respiration Rate: 19, NORMAL
+Blood Pressure: 123 / 52, WARNING_HIGH_BLOOD_PRESSURE

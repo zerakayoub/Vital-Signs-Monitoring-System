@@ -14,9 +14,8 @@ struct VitalSigns
     std::string timestamp;
 };
 
-class SensorSimulator
+struct SensorSimulator
 {
-public:
     VitalSigns readVitals();
 };
 

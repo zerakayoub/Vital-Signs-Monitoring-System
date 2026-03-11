@@ -18,7 +18,7 @@ int main()
 
         analyzer.analyze(vitals);
 
-        logger.log(vitals);
+        logger.log(vitals, analyzer);
 
         std::this_thread::sleep_for(std::chrono::seconds(1));
     }

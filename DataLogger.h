@@ -2,11 +2,11 @@
 #define DATA_LOGGER_H
 
 #include "SensorSimulator.h"
+#include "VitalAnalyzer.h"
 
-class DataLogger
+struct DataLogger
 {
-public:
-    void log(const VitalSigns &vitals);
+    void log(const VitalSigns &vitals, const VitalAnalyzer &analysis);
 };
 
 #endif
