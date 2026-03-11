@@ -1,54 +1,73 @@
 VITALS LOG FILES
-Tue Mar 10 20:43:08 2026
-Heart Rate: 111, ALERT_HIGH_HEART_RATE
-SpO2: 92, WARNING_LOW_OXYGEN
-Respiration Rate: 22, WARNING_ABNORMAL_RESPIRATION
-Blood Pressure: 81 / 61, ALERT_LOW_BLOOD_PRESSURE
 
-Tue Mar 10 20:43:09 2026
-Heart Rate: 59, WARNING_LOW_HEART_RATE
-SpO2: 88, WARNING_LOW_OXYGEN
-Respiration Rate: 20, NORMAL
-Blood Pressure: 86 / 54, ALERT_LOW_BLOOD_PRESSURE
-
-Tue Mar 10 20:43:10 2026
-Heart Rate: 92, NORMAL
-SpO2: 89, WARNING_LOW_OXYGEN
-Respiration Rate: 12, NORMAL
-Blood Pressure: 125 / 59, WARNING_HIGH_BLOOD_PRESSURE
-
-Tue Mar 10 20:43:11 2026
-Heart Rate: 53, WARNING_LOW_HEART_RATE
+Tue Mar 10 21:16:25 2026
+Heart Rate: 72, NORMAL
 SpO2: 99, NORMAL
-Respiration Rate: 19, NORMAL
-Blood Pressure: 143 / 65, WARNING_HIGH_BLOOD_PRESSURE
+Respiration Rate: 14, NORMAL
+Blood Pressure: 125 / 75, NORMAL
 
-Tue Mar 10 20:43:12 2026
-Heart Rate: 100, NORMAL
-SpO2: 86, WARNING_LOW_OXYGEN
+Tue Mar 10 21:16:26 2026
+Heart Rate: 73, NORMAL
+SpO2: 97, NORMAL
+Respiration Rate: 17, NORMAL
+Blood Pressure: 130 / 67, NORMAL
+
+Tue Mar 10 21:16:27 2026
+Heart Rate: 67, NORMAL
+SpO2: 99, NORMAL
+Respiration Rate: 14, NORMAL
+Blood Pressure: 122 / 79, NORMAL
+
+Tue Mar 10 21:16:28 2026
+Heart Rate: 70, NORMAL
+SpO2: 97, NORMAL
+Respiration Rate: 13, NORMAL
+Blood Pressure: 125 / 61, NORMAL
+
+Tue Mar 10 21:16:29 2026
+Heart Rate: 72, NORMAL
+SpO2: 98, NORMAL
+Respiration Rate: 15, NORMAL
+Blood Pressure: 125 / 61, NORMAL
+
+Tue Mar 10 21:16:30 2026
+Heart Rate: 71, NORMAL
+SpO2: 97, NORMAL
+Respiration Rate: 15, NORMAL
+Blood Pressure: 128 / 70, NORMAL
+
+Tue Mar 10 21:16:31 2026
+Heart Rate: 70, NORMAL
+SpO2: 98, NORMAL
+Respiration Rate: 13, NORMAL
+Blood Pressure: 128 / 72, NORMAL
+
+Tue Mar 10 21:16:33 2026
+Heart Rate: 72, NORMAL
+SpO2: 98, NORMAL
+Respiration Rate: 13, NORMAL
+Blood Pressure: 128 / 78, NORMAL
+
+Tue Mar 10 21:16:34 2026
+Heart Rate: 67, NORMAL
+SpO2: 98, NORMAL
+Respiration Rate: 17, NORMAL
+Blood Pressure: 130 / 70, NORMAL
+
+Tue Mar 10 21:16:35 2026
+Heart Rate: 69, NORMAL
+SpO2: 97, NORMAL
+Respiration Rate: 16, NORMAL
+Blood Pressure: 124 / 68, NORMAL
+
+Tue Mar 10 21:16:36 2026
+Heart Rate: 71, NORMAL
+SpO2: 97, NORMAL
 Respiration Rate: 18, NORMAL
-Blood Pressure: 186 / 128, ALERT_HYPERTENSIVE_CRISIS
+Blood Pressure: 130 / 70, NORMAL
 
-Tue Mar 10 20:43:13 2026
-Heart Rate: 115, ALERT_HIGH_HEART_RATE
-SpO2: 94, WARNING_LOW_OXYGEN
-Respiration Rate: 23, WARNING_ABNORMAL_RESPIRATION
-Blood Pressure: 80 / 64, ALERT_LOW_BLOOD_PRESSURE
-
-Tue Mar 10 20:43:14 2026
-Heart Rate: 102, ALERT_HIGH_HEART_RATE
-SpO2: 94, WARNING_LOW_OXYGEN
-Respiration Rate: 18, NORMAL
-Blood Pressure: 150 / 75, WARNING_HIGH_BLOOD_PRESSURE
-
-Tue Mar 10 20:43:15 2026
-Heart Rate: 84, NORMAL
-SpO2: 94, WARNING_LOW_OXYGEN
-Respiration Rate: 21, WARNING_ABNORMAL_RESPIRATION
-Blood Pressure: 101 / 57, ALERT_LOW_BLOOD_PRESSURE
-
-Tue Mar 10 20:43:16 2026
-Heart Rate: 87, NORMAL
-SpO2: 96, NORMAL
-Respiration Rate: 18, NORMAL
-Blood Pressure: 82 / 59, ALERT_LOW_BLOOD_PRESSURE
+Tue Mar 10 21:16:37 2026
+Heart Rate: 73, NORMAL
+SpO2: 97, NORMAL
+Respiration Rate: 16, NORMAL
+Blood Pressure: 129 / 71, NORMAL

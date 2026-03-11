@@ -43,10 +43,10 @@ void VitalAnalyzer::analyze(const VitalSigns &v)
         bloodPressureStatus = "ALERT_HYPERTENSIVE_CRISIS";
     }
 
-    else if (v.bloodPressureSystolic > 120 || v.bloodPressureDiastolic > 80)
+    else if (v.bloodPressureSystolic > 140 || v.bloodPressureDiastolic > 80)
     {
         std::cout << "WARNING: Elevated Blood Pressure\n";
-        bloodPressureStatus = "WARNING_HIGH_BLOOD_PRESSURE";
+        bloodPressureStatus = "WARNING_ELEVATED_BLOOD_PRESSURE";
     }
 
     else if (v.bloodPressureSystolic < 90 || v.bloodPressureDiastolic < 60)
